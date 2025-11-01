@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "large_complex_scc",
+    "nodes": 50,
+    "edges": 120,
+    "density": "0,049",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "large_medium",
+    "nodes": 40,
+    "edges": 80,
+    "density": "0,051",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "large_sparse",
+    "nodes": 30,
+    "edges": 45,
+    "density": "0,052",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "medium_complex_dag",
+    "nodes": 15,
+    "edges": 25,
+    "density": "0,119",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "medium_mixed",
+    "nodes": 18,
+    "edges": 30,
+    "density": "0,098",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "medium_multiple_scc",
+    "nodes": 20,
+    "edges": 35,
+    "density": "0,092",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "small_cycle",
+    "nodes": 8,
+    "edges": 12,
+    "density": "0,214",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "small_dag",
+    "nodes": 10,
+    "edges": 15,
+    "density": "0,167",
+    "source": 0,
+    "weight_model": "edge"
+  },
+  {
+    "dataset": "small_mixed",
+    "nodes": 9,
+    "edges": 14,
+    "density": "0,194",
+    "source": 0,
+    "weight_model": "edge"
+  }
+]
